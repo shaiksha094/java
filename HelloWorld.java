@@ -3,5 +3,8 @@ public class HelloWorld {
       System.out.println("well come to banglore");
         
       System.out.println("shaik");
+     
+      System.out.println("learning ");
+      System.out.println("devops");
 	}
 }
