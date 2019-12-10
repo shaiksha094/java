@@ -12,7 +12,7 @@ public class HelloWorld {
       System.out.println("this is jenkins program");
       System.out.println("running");
 
-      System.out.println("hemanth");
+      System.out.println("java");
   }
 }
 
